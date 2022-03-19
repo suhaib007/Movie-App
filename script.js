@@ -43,7 +43,7 @@ function showMovies(movies) {
             </div>
             <div class="overview">
                     <h4>Overview: </h4>
-                    ${overview};
+                    ${overview}
             </div>   
         `;
 
